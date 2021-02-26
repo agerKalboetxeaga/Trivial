@@ -1,1 +1,1 @@
-# Trivial
+Proiektu hau trivial jolas batetan datza. Hasieran pantaila bat egongo da jokatu botoiarekin. Ostean Jokalariak autatzeko beste menu bat agertuko da eta jokalaria aukeratu ostean, jokura bidaltzen zaizu. Bertan galdera bat agertuko zaizu eta hiru aukera izango dituzu aukeratzeko, bakarrik bat egongo da ondo
